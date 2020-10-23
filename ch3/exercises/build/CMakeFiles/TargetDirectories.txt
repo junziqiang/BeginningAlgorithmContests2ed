@@ -1,0 +1,7 @@
+/root/aospc/ch3/exercises/build/CMakeFiles/rebuild_cache.dir
+/root/aospc/ch3/exercises/build/CMakeFiles/edit_cache.dir
+/root/aospc/ch3/exercises/build/CMakeFiles/1586.dir
+/root/aospc/ch3/exercises/build/CMakeFiles/1225.dir
+/root/aospc/ch3/exercises/build/CMakeFiles/1585.dir
+/root/aospc/ch3/exercises/build/CMakeFiles/455.dir
+/root/aospc/ch3/exercises/build/CMakeFiles/test.dir

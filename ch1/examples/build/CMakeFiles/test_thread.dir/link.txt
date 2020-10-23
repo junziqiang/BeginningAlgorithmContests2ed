@@ -1,1 +1,0 @@
-/usr/bin/c++   -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Wno-unused-function  -rdynamic CMakeFiles/test_thread.dir/1-1.cpp.o  -o ../bin/test_thread 

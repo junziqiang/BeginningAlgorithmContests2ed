@@ -1,0 +1,1 @@
+/usr/bin/c++   -rdynamic -O0 -ggdb -std=c++11 -Wall -Wno-deprecated -Wno-unused-function  -rdynamic CMakeFiles/1586.dir/uva1586.cpp.o  -o ../bin/1586 
